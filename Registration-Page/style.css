@@ -1,0 +1,49 @@
+input[type=text], input[type=password], input[type=tel],select,input[type=color],input[type=date],button{
+	padding: 15px;
+	margin: 5px 20px 22px 0;
+	border: none;
+	background: #f1f1f1;
+	display: block;
+	width:520px;
+}
+
+.container {
+  padding:16px;
+}
+
+
+
+
+form{
+ margin:auto;
+ width:600px;
+ background-color:#ffc;
+}
+
+hr{
+	text-align:left;
+}
+
+select,input[type=color],input[type=date]{
+	width:100px;
+}
+
+button{
+	background-color:green;
+	color:white;
+	width:100px;
+	margin: 0 auto;
+}
+
+body{
+	background-color:gray;
+}
+
+.container signin{
+ margin-top:20px;
+}
+
+.mistake{
+  text-align:center;
+  font-size:32px;
+}

@@ -1,0 +1,43 @@
+input[type=email], input[type=password],button{
+	padding: 15px;
+	margin: 5px 20px 22px 0;
+	border: none;
+	background: #f1f1f1;
+	display: block;
+	width:400px;
+}
+
+.container {
+padding: 16px;
+}
+
+
+
+
+form{
+ margin:auto;
+ width:500px;
+ background-color:#ffc;
+}
+
+hr{
+	text-align:left;
+}
+
+select,input[type=color]{
+	width:100px;
+}
+
+button{
+	background-color:green;
+	color:yellow;
+	width:300px;
+	margin: 0 auto;
+  height:48px;
+  font-size:20px;
+}
+
+button:hover{
+	background-color:pink;
+}
+
